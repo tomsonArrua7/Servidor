@@ -1,0 +1,9 @@
+Line 118: Class InetCtlsObjects.Inet of control Inet1 was not a loaded control class.
+Line 121: The property name _ExtentX in Inet1 is invalid.
+Line 122: The property name _ExtentY in Inet1 is invalid.
+Line 123: The property name _Version in Inet1 is invalid.
+Line 124: The property name Protocol in Inet1 is invalid.
+Line 125: The property name RemoteHost in Inet1 is invalid.
+Line 126: The property name URL in Inet1 is invalid.
+Line 127: The property name Document in Inet1 is invalid.
+Line 128: The property name RequestTimeout in Inet1 is invalid.
